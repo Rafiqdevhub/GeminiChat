@@ -23,8 +23,8 @@ GeminiChat is a web-based AI assistant that leverages Google's Gemini AI models 
 
 1. Clone this repository:
    ```
-   git clone 
-   cd 
+   git clone https://github.com/Rafiqdevhub/GeminiChat.git
+   cd GeminiChat
    ```
 
 2. Install the required dependencies:
